@@ -1,0 +1,21 @@
+{
+  "name": "express-web-server",
+  "version": "1.0.0",
+  "description": "Express.js Web Server tutorial",
+  "main": "server.js",
+  "scripts": {
+    "start": "node node_server",
+    "dev": "nodemon server"
+  },
+  "author": "Prasanth Rameshbabu",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "date-fns": "^2.23.0",
+    "express": "^5.1.0",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
